@@ -1,0 +1,5 @@
+real,predicho,n,resultado
+Normal,Normal,1383488,Verdadero negativo
+Normal,Lavado,933,Falso positivo
+Lavado,Normal,609,Falso negativo
+Lavado,Lavado,107,Verdadero positivo
